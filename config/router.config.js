@@ -26,7 +26,7 @@ export default [
           {
             path: '/doctor/doctor-list',
             name: 'doctorList',
-            component: './doctor/DoctorList',
+            component: './Doctor/DoctorList',
           },
         ],
       },
