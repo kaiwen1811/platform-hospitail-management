@@ -42,4 +42,5 @@ export default {
   'menu.department.departmentList': '科室列表',
   'menu.hospital': '医院管理',
   'menu.hospital.hospitalList': '医院列表',
+  'menu.hospital.hospitalDetail': '医院详情',
 };

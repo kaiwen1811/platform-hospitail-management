@@ -54,6 +54,12 @@ export default [
             name: 'hospitalList',
             component: './Hospital/HospitalList',
           },
+          {
+            path: '/hospital/hospital-detail',
+            name: 'hospitalDetail',
+            component: './Hospital/HospitalDetail',
+            hideInMenu: true,
+          },
         ],
       },
       {
